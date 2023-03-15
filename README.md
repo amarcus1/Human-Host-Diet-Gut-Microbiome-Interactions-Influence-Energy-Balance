@@ -1,4 +1,4 @@
-# Reprogramming-the-Human-Gut-Microbiome-Reduces-Dietary-Energy-Harvest
+# Human Host-Diet-Gut Microbiome Interactions Influence Energy Balance
 
 A program used to calculate the dietary energy balance for subjects in the calorimetry consuming controlled diet.
 
